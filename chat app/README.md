@@ -69,11 +69,6 @@ PORT=5001
 ```
 > **Note:** Replace `your_jwt_secret_key` with a strong secret key of your choice.
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/iemafzalhassan/full-stack_chatApp.git
-```
 
 ## 🏗️ Build and Run the Application"
 
